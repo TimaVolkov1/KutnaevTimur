@@ -7,7 +7,7 @@ public class Main {
 
         System.out.println(isPalindrome("gooo"));
 
-        System.out.println(isPalindrome("dooo"));
+        System.out.println(isPalindrome("dod"));
 
         for (int i = 0; i < 300; i++) {
 
